@@ -1,5 +1,5 @@
 [package]
-name = "the-everything-crate"
+name = "tec"
 version = "0.1.0"
 edition = "2018"
 
